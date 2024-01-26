@@ -5,7 +5,7 @@
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
     "@strapi/strapi": "4.19.0",
-    "@strapi/plugin-users-permissions": "4.13.6",
+    "@strapi/plugin-users-permissions": "4.19.0",
     "@strapi/plugin-i18n": "4.19.0",
     "better-sqlite3": "8.5.0"
   },
